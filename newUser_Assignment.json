@@ -1,0 +1,36 @@
+{
+	"email": "shreya@gmail.com",
+	"firstName": "Shreya",
+	"lastName": "Khurana",
+	"mobile": [
+		2323232,
+		232322
+	],
+	"address": {
+		"flatNo": "A-131",
+		"city": "New Delhi",
+		"State": "Delhi",
+		"country": "India"
+	},
+	"primarySkills": [
+		"c++",
+		"Java",
+		"Python",
+		"Ruby"
+	],
+	"secondarySkills": [
+		"Shell Scripting",
+		"ML",
+		"AI"
+	],
+	"education": [
+		{
+			"course": "B.Tech",
+			"percentage": "70"
+		},
+		{
+			"course": "M.Tech",
+			"percentage": "75"
+		}
+	]
+}
